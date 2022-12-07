@@ -1,0 +1,8 @@
+.DS_Store
+
+.DS_Store
+*.swp
+.DS_Store
+.spyproject/config/backups/codestyle.ini.bak
+.spyproject/config/backups/vcs.ini.bak
+*.bak
