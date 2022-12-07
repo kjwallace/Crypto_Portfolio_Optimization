@@ -53,16 +53,16 @@ Make sure that your Matplotlib version is 3.5.3. If it is not, you can use the f
 
 
 ## Created By
-1. Sam Gaskin
-2. Kelvin Wallace
-3. Rafay Kalim
+1. Sam Gaskin (GH: SGaskin7)
+2. Kelvin Wallace (GH: kjwallace)
+3. Rafay Kalim (GH: rafayk7)
 
 ## With Help From
 1. Professor Roy Kwon
 2. David Islip
 
 ## How to Navigate This Repo
-1. So our main UI is in the `GUI` folder. 
+1. So our main UI is in the `GUI` folder in the file Good_Layout.py. 
 2. The main backtester it calls is in `FactorResearch\backtesting\backtesting.py`.
 3. Most optimization functions and predictors are saved in `FactorResearch\backtesting\util.py`.
 4. All CVaR functions are saved in `FactorResearch\backtesting\Series_CVaR`.
